@@ -2,7 +2,7 @@
 
 # 👋 Hey there, This is Shine!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+%7C+IT+Minor;AI%2FML+Enthusiast;Full-Stack+Developer;Open+to+Opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=Computer+Science+%7C+IT+Minor;AI%2FML+Enthusiast;Full-Stack+Developer;Open+to+Opportunities!)](https://git.io/typing-svg)
 
 🎓 **Senior at Purdue University** | 💼 **Open to Internships & Full-Time Roles**
 
@@ -111,6 +111,7 @@ I'm actively seeking **internship and full-time opportunities** where I can:
 
 ## Let's Connect!
 
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shinekhantzaw)
@@ -119,6 +120,7 @@ I'm actively seeking **internship and full-time opportunities** where I can:
 
 **💼 Portfolio Website Under Construction - Coming Soon!**
 
+
 </div>
 
 <div align="center">
@@ -126,5 +128,4 @@ I'm actively seeking **internship and full-time opportunities** where I can:
 *"Thanks for stopping by! Feel free to reach out - I'm always open to interesting conversations and opportunities!"*
 
 ![](https://komarev.com/ghpvc/?username=shinekhantzaw&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
