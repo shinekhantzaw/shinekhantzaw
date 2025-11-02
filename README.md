@@ -96,10 +96,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Shine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinekhantzaw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinekhantzaw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinekhantzaw&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
 
@@ -130,10 +126,10 @@
 ## 🎯 What I'm Looking For
 
 I'm actively seeking **internship and full-time opportunities** where I can:
-- 💡 Apply my AI/ML knowledge to real-world problems
-- 🚀 Build scalable full-stack applications
-- 🤝 Collaborate with talented teams
-- 📚 Continue learning and growing as a developer
+&emsp;&emsp;&emsp;- 💡 Apply my AI/ML knowledge to real-world problems
+&emsp;&emsp;&emsp;- 🚀 Build scalable full-stack applications
+&emsp;&emsp;&emsp;- 🤝 Collaborate with talented teams
+&emsp;&emsp;&emsp;- 📚 Continue learning and growing as a developer
 
 ---
 
@@ -143,7 +139,7 @@ I'm actively seeking **internship and full-time opportunities** where I can:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shinekhantzaw)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/shinekhantzaw)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shinezaw700@gmail.com)
 
 **💼 Portfolio Website Under Construction - Coming Soon!**
 
