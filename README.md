@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Shine Zaw
+# 👋 Hey there, This is Shine!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+%7C+IT+Minor;AI%2FML+Enthusiast;Full-Stack+Developer;Open+to+Opportunities!)](https://git.io/typing-svg)
 
@@ -122,12 +122,6 @@ I'm actively seeking **internship and full-time opportunities** where I can:
 
 ---
 <div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 ![](https://komarev.com/ghpvc/?username=shinekhantzaw&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
