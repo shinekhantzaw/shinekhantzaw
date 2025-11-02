@@ -100,10 +100,14 @@
 ## What I'm Looking For
 
 I'm actively seeking **internship and full-time opportunities** where I can:
-- 💡 Apply my AI/ML knowledge to real-world problems
-- 🚀 Build scalable full-stack applications
-- 🤝 Collaborate with talented teams
-- 📚 Continue learning and growing as a developer
+
+&emsp;&emsp;&emsp; ● Apply my AI/ML knowledge to real-world problems
+
+&emsp;&emsp;&emsp; ● Build scalable full-stack applications
+
+&emsp;&emsp;&emsp; ● Collaborate with talented teams
+
+&emsp;&emsp;&emsp; ● Continue learning and growing as a developer
 
 ## Let's Connect!
 
@@ -117,13 +121,10 @@ I'm actively seeking **internship and full-time opportunities** where I can:
 
 </div>
 
----
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=shinekhantzaw&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-**⭐ From [Shine Zaw](https://github.com/shinekhantzaw)**
-
 *"Thanks for stopping by! Feel free to reach out - I'm always open to interesting conversations and opportunities!"*
+
+![](https://komarev.com/ghpvc/?username=shinekhantzaw&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
