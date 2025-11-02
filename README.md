@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;🎯 Building innovative solutions that bridge **full-stack development** with **intelligent systems**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -98,13 +98,13 @@
 </div>
 
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 I'm actively seeking **internship and full-time opportunities** where I can:
-&emsp;&emsp;&emsp; 💡 Apply my AI/ML knowledge to real-world problems
-&emsp;&emsp;&emsp; 🚀 Build scalable full-stack applications
-&emsp;&emsp;&emsp; 🤝 Collaborate with talented teams
-&emsp;&emsp;&emsp; 📚 Continue learning and growing as a developer
+💡 Apply my AI/ML knowledge to real-world problems
+🚀 Build scalable full-stack applications
+🤝 Collaborate with talented teams
+📚 Continue learning and growing as a developer
 
 ---
 
