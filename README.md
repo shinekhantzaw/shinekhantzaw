@@ -14,23 +14,23 @@
 
 &emsp;&emsp;&emsp; ● Senior at Purdue University studying Computer Science with an IT Minor
 
-&emsp;&emsp;&emsp;🤖 Focused on **AI/ML** and Full-Stack Development
+&emsp;&emsp;&emsp; ● Focused on **AI/ML** and Full-Stack Development
 
-&emsp;&emsp;&emsp;🌱 Currently learning and exploring Artificial Intelligence, Machine Learning, and Advanced Algorithms
+&emsp;&emsp;&emsp; ● Currently learning and exploring Artificial Intelligence, Machine Learning, and Advanced Algorithms
 
-&emsp;&emsp;&emsp;🎸 When I'm not coding, you'll find me playing guitar, traveling, or exploring life's best moments
+&emsp;&emsp;&emsp; ● When I'm not coding, you'll find me playing guitar, traveling, or exploring life's best moments
 
-&emsp;&emsp;&emsp;💼 **Open to internship and full-time opportunities** where I can make an impact
+&emsp;&emsp;&emsp; ● **Open to internship and full-time opportunities** where I can make an impact
 
-&emsp;&emsp;&emsp;✨ Fun fact: I'm always eager to learn new technologies and take on challenging projects!
+&emsp;&emsp;&emsp; ● Fun fact: I'm always eager to learn new technologies and take on challenging projects!
 
 ## Currently Working On
 
-&emsp;&emsp;&emsp;🔒 **Confidential Projects** - Working on exciting developments under NDA that I can't wait to share soon!
+&emsp;&emsp;&emsp; ● **Confidential Projects** - Working on exciting developments under NDA that I can't wait to share soon!
 
-&emsp;&emsp;&emsp;🌱 Continuously expanding my knowledge in **AI/ML** and exploring cutting-edge technologies
+&emsp;&emsp;&emsp; ● Continuously expanding my knowledge in **AI/ML** and exploring cutting-edge technologies
 
-&emsp;&emsp;&emsp;🎯 Building innovative solutions that bridge **full-stack development** with **intelligent systems**
+&emsp;&emsp;&emsp; ● Building innovative solutions that bridge **full-stack development** with **intelligent systems**
 
 ## Tech Stack
 
@@ -97,15 +97,15 @@
 
 </div>
 
-
 ## What I'm Looking For
 
+<div align="center">
 I'm actively seeking **internship and full-time opportunities** where I can:
 💡 Apply my AI/ML knowledge to real-world problems
 🚀 Build scalable full-stack applications
 🤝 Collaborate with talented teams
 📚 Continue learning and growing as a developer
-
+</div>
 ---
 
 ## 📫 Let's Connect!
