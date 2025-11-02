@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## About Me
 
 &emsp;&emsp;&emsp;🎓 Senior at Purdue University** studying Computer Science with an IT Minor
