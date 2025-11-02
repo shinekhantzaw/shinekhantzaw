@@ -14,9 +14,9 @@
 
 ## 🚀 About Me
 
-&emsp;🎓 Senior at Purdue University** studying Computer Science with an IT Minor
+&emsp;&emsp;&emsp;🎓 Senior at Purdue University** studying Computer Science with an IT Minor
 
-&emsp;🤖 Focused on **AI/ML** and Full-Stack Development
+&emsp;&emsp;&emsp;🤖 Focused on **AI/ML** and Full-Stack Development
 
 🌱 Currently learning and exploring Artificial Intelligence, Machine Learning, and Advanced Algorithms
 
