@@ -12,7 +12,7 @@
 
 ## About Me
 
-&emsp;&emsp;&emsp;🎓 Senior at Purdue University** studying Computer Science with an IT Minor
+&emsp;&emsp;&emsp;🎓 Senior at Purdue University studying Computer Science with an IT Minor
 
 &emsp;&emsp;&emsp;🤖 Focused on **AI/ML** and Full-Stack Development
 
@@ -121,7 +121,14 @@ I'm actively seeking **internship and full-time opportunities** where I can:
 </div>
 
 ---
-<div>
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
 ![](https://komarev.com/ghpvc/?username=shinekhantzaw&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 **⭐ From [Shine Zaw](https://github.com/shinekhantzaw)**
