@@ -34,7 +34,7 @@
 
 ## Tech Stack
 
-<div align="left">
+<div align="center">
 
 ### Languages
 <p>
