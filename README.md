@@ -88,39 +88,23 @@
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinekhantzaw&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shinekhantzaw&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
 [![Shine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinekhantzaw&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
 
 ## 🎯 What I'm Looking For
 
 I'm actively seeking **internship and full-time opportunities** where I can:
-&emsp;&emsp;&emsp;- 💡 Apply my AI/ML knowledge to real-world problems
-&emsp;&emsp;&emsp;- 🚀 Build scalable full-stack applications
-&emsp;&emsp;&emsp;- 🤝 Collaborate with talented teams
-&emsp;&emsp;&emsp;- 📚 Continue learning and growing as a developer
+&emsp;&emsp;&emsp; 💡 Apply my AI/ML knowledge to real-world problems
+&emsp;&emsp;&emsp; 🚀 Build scalable full-stack applications
+&emsp;&emsp;&emsp; 🤝 Collaborate with talented teams
+&emsp;&emsp;&emsp; 📚 Continue learning and growing as a developer
 
 ---
 
@@ -137,7 +121,7 @@ I'm actively seeking **internship and full-time opportunities** where I can:
 </div>
 
 ---
-
+<div>
 ![](https://komarev.com/ghpvc/?username=shinekhantzaw&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 **⭐ From [Shine Zaw](https://github.com/shinekhantzaw)**
