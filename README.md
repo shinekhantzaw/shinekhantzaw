@@ -32,8 +32,6 @@
 
 &emsp;&emsp;&emsp;🎯 Building innovative solutions that bridge **full-stack development** with **intelligent systems**
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -90,8 +88,6 @@
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -100,8 +96,6 @@
 
 </div>
 
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -109,8 +103,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shinekhantzaw&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
----
 
 ## 📈 Contribution Graph
 
