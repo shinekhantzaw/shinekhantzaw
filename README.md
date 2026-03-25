@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Shine%20Khant%20Zaw&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20Software%20Engineer%20%7C%20AI/ML%20Enthusiast&descAlignY=55&descSize=18&descColor=C9D1D9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=80&section=header&text=SHINE%20KHANT%20ZAW&fontSize=30&fontColor=FFFFFF&fontAlignY=50&desc=Full-Stack%20Developer%20•%20AI/ML%20•%20Purdue%20FW%20'26&descAlignY=75&descSize=14&descColor=8B949E"/>
 
 <div align="center">
 
@@ -161,4 +161,4 @@ Fully playable desktop Blackjack with real-time hand tracking, win counters, and
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=40&section=footer&fontSize=0"/>
