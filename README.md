@@ -1,17 +1,17 @@
 <!-- 
-  COLOR A: PURPLE HAZE
-  Header/Footer: Deep purple → violet pink
-  Accents: #A855F7 (purple) + #EC4899 (pink)
+  COLOR C: SUNSET FIRE
+  Header/Footer: Dark warm → burnt orange → gold
+  Accents: #F97316 (orange) + #EAB308 (gold)
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:7C3AED,100:EC4899&height=80&section=header&text=SHINE%20KHANT%20ZAW&fontSize=30&fontColor=FFFFFF&fontAlignY=50&desc=Full-Stack%20Developer%20•%20AI/ML%20•%20Purdue%20FW%20'26&descAlignY=75&descSize=14&descColor=E0D4F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a00,50:F97316,100:EAB308&height=80&section=header&text=SHINE%20KHANT%20ZAW&fontSize=30&fontColor=FFFFFF&fontAlignY=50&desc=Full-Stack%20Developer%20•%20AI/ML%20•%20Purdue%20FW%20'26&descAlignY=75&descSize=14&descColor=FEF3C7"/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shinekhantzaw.vercel.app-A855F7?style=for-the-badge&logoColor=white)](https://shinekhantzaw.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shinekhantzaw.vercel.app-F97316?style=for-the-badge&logoColor=white)](https://shinekhantzaw.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shinekhantzaw)
-[![Email](https://img.shields.io/badge/Email-Say_Hi!-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shinezaw700@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=shinekhantzaw&color=A855F7&style=for-the-badge&label=VISITORS)](https://github.com/shinekhantzaw)
+[![Email](https://img.shields.io/badge/Email-Say_Hi!-EAB308?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shinezaw700@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=shinekhantzaw&color=F97316&style=for-the-badge&label=VISITORS)](https://github.com/shinekhantzaw)
 
 </div>
 
@@ -130,7 +130,7 @@ ML web app that classifies items as **recyclable, trash, or compost** from a pho
 
 ### 🚌 PFW Shuttle Tracker
 <a href="https://pfw-shuttle.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Site-Visit-A855F7?style=flat-square&logo=vercel&logoColor=white" alt="Live"/>
+  <img src="https://img.shields.io/badge/Live_Site-Visit-F97316?style=flat-square&logo=vercel&logoColor=white" alt="Live"/>
 </a>
 
 Real-time campus shuttle tracking helping PFW students get to class on time with live map updates.
@@ -167,4 +167,4 @@ Fully playable desktop Blackjack with real-time hand tracking, win counters, and
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:7C3AED,100:EC4899&height=40&section=footer&fontSize=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a00,50:F97316,100:EAB308&height=40&section=footer&fontSize=0"/>
