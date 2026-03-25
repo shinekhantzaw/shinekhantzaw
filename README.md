@@ -1,17 +1,11 @@
-<!-- 
-  COLOR B: EMERALD NIGHT
-  Header/Footer: Dark forest → emerald → cyan
-  Accents: #10B981 (emerald) + #06B6D4 (cyan)
--->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:021a0f,50:10B981,100:06B6D4&height=80&section=header&text=SHINE%20KHANT%20ZAW&fontSize=30&fontColor=FFFFFF&fontAlignY=50&desc=Full-Stack%20Developer%20•%20AI/ML%20•%20Purdue%20FW%20'26&descAlignY=75&descSize=14&descColor=A7F3D0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D9488,100:2563EB&height=80&section=header&text=SHINE%20KHANT%20ZAW&fontSize=30&fontColor=FFFFFF&fontAlignY=50&desc=Full-Stack%20Developer%20•%20AI/ML%20•%20Purdue%20FW%20'26&descAlignY=75&descSize=14&descColor=E0F2FE"/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shinekhantzaw.vercel.app-10B981?style=for-the-badge&logoColor=white)](https://shinekhantzaw.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shinekhantzaw.vercel.app-0D9488?style=for-the-badge&logoColor=white)](https://shinekhantzaw.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shinekhantzaw)
-[![Email](https://img.shields.io/badge/Email-Say_Hi!-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shinezaw700@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=shinekhantzaw&color=10B981&style=for-the-badge&label=VISITORS)](https://github.com/shinekhantzaw)
+[![Email](https://img.shields.io/badge/Email-Say_Hi!-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shinezaw700@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=shinekhantzaw&color=0D9488&style=for-the-badge&label=VISITORS)](https://github.com/shinekhantzaw)
 
 </div>
 
@@ -130,7 +124,7 @@ ML web app that classifies items as **recyclable, trash, or compost** from a pho
 
 ### 🚌 PFW Shuttle Tracker
 <a href="https://pfw-shuttle.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Site-Visit-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live"/>
+  <img src="https://img.shields.io/badge/Live_Site-Visit-0D9488?style=flat-square&logo=vercel&logoColor=white" alt="Live"/>
 </a>
 
 Real-time campus shuttle tracking helping PFW students get to class on time with live map updates.
@@ -144,7 +138,7 @@ Real-time campus shuttle tracking helping PFW students get to class on time with
 
 ### 🎮 Dance Dance Keyboard
 <a href="https://github.com/shinekhantzaw/dance-dance-keyboard">
-  <img src="https://img.shields.io/badge/Game_Dev-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Game"/>
+  <img src="https://img.shields.io/badge/Game_Dev-2563EB?style=flat-square&logo=openjdk&logoColor=white" alt="Game"/>
 </a>
 
 Guitar Hero-inspired rhythm game powered by a **hand-built priority queue** for real-time input management.
@@ -156,7 +150,7 @@ Guitar Hero-inspired rhythm game powered by a **hand-built priority queue** for 
 
 ### 🃏 Blackjack 21
 <a href="https://github.com/shinekhantzaw/BlackJack-21.git">
-  <img src="https://img.shields.io/badge/Desktop_App-teal?style=flat-square&logo=openjdk&logoColor=white" alt="Desktop"/>
+  <img src="https://img.shields.io/badge/Desktop_App-0D9488?style=flat-square&logo=openjdk&logoColor=white" alt="Desktop"/>
 </a>
 
 Fully playable desktop Blackjack with real-time hand tracking, win counters, and casino-style UI.
@@ -167,4 +161,4 @@ Fully playable desktop Blackjack with real-time hand tracking, win counters, and
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:021a0f,50:10B981,100:06B6D4&height=40&section=footer&fontSize=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D9488,100:2563EB&height=40&section=footer&fontSize=0"/>
