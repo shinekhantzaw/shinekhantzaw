@@ -1,131 +1,265 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Shine%20Khant%20Zaw&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20Software%20Engineer%20%7C%20AI/ML%20Enthusiast&descAlignY=55&descSize=18&descColor=C9D1D9"/>
+
 <div align="center">
 
-# 👋 Hey there, This is Shine!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%2C+World!%22);+%F0%9F%91%8B;Senior+%40+Purdue+University+Fort+Wayne;Building+CareConnect+Fort+Wayne+%F0%9F%8C%8D;Open+to+Opportunities!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=Computer+Science+%7C+IT+Minor;AI%2FML+Enthusiast;Full-Stack+Developer;Open+to+Opportunities!)](https://git.io/typing-svg)
-
-🎓 **Senior at Purdue University** | 💼 **Open to Internships & Full-Time Roles**
-
-*"The best way to predict the future is to invent it." - Alan Kay*
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shinekhantzaw.vercel.app-58A6FF?style=for-the-badge&logoColor=white)](https://shinekhantzaw.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shinekhantzaw)
+[![Email](https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shinezaw700@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=shinekhantzaw&color=58A6FF&style=for-the-badge&label=VISITORS)](https://github.com/shinekhantzaw)
 
 </div>
 
-## About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-&emsp;&emsp;&emsp; ● Senior at Purdue University studying Computer Science with an IT Minor
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-&emsp;&emsp;&emsp; ● Focused on **AI/ML** and Full-Stack Development
+```yaml
+name: Shine Khant Zaw
+location: Fort Wayne, IN
+education:
+  - degree: B.A. Computer Science (IT Minor)
+    school: Purdue University Fort Wayne
+    gpa: 3.6 / 4.0
+    graduation: May 2026
+  - degree: A.A.S. Industrial Technology
+    school: Ivy Tech Community College
+    graduated: 2023
 
-&emsp;&emsp;&emsp; ● Currently learning and exploring Artificial Intelligence, Machine Learning, and Advanced Algorithms
+currently_building:
+  - "CareConnect Fort Wayne — Multilingual community resource platform"
+  - "Restaurant Staffing Platform — Senior capstone (NDA)"
+  - "EcoSense — ML-powered recycling classifier"
 
-&emsp;&emsp;&emsp; ● When I'm not coding, you'll find me playing guitar, traveling, or exploring life's best moments
+interests: ["Full-Stack Development", "AI/ML", "Embedded Software", "Cloud Computing"]
+hobbies: ["🎸 Guitar", "✈️ Traveling", "🌏 Exploring"]
+fun_fact: "My hardware + software background sparked my interest in embedded systems!"
+```
 
-&emsp;&emsp;&emsp; ● **Open to internship and full-time opportunities** where I can make an impact
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-&emsp;&emsp;&emsp; ● Fun fact: I'm always eager to learn new technologies and take on challenging projects!
-
-## Currently Working On
-
-&emsp;&emsp;&emsp; ● **Confidential Projects** - Working on exciting developments under NDA that I can't wait to share soon!
-
-&emsp;&emsp;&emsp; ● Continuously expanding my knowledge in **AI/ML** and exploring cutting-edge technologies
-
-&emsp;&emsp;&emsp; ● Building innovative solutions that bridge **full-stack development** with **intelligent systems**
-
-## Tech Stack
+## 🛠️ &nbsp;Tech Arsenal
 
 <div align="center">
 
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="35" height="35"/>
-</p>
+**`// Languages`**
 
-### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="35" height="35"/>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,cs,js&theme=dark" alt="Languages"/>
+</a>
 
-### Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="35" height="35"/>
-</p>
+**`// Frontend`**
 
-### Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35" height="35"/>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,html,css&theme=dark" alt="Frontend"/>
+</a>
 
-### Cloud & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
-</p>
+**`// Backend`**
 
-### Operating Systems
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="35" height="35"/>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,fastapi&theme=dark" alt="Backend"/>
+</a>
+
+**`// Databases & Cloud`**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,gcp,aws,azure,git&theme=dark" alt="Databases & Cloud"/>
+</a>
+
+**`// Environments`**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,bash,powershell&theme=dark" alt="Environments"/>
+</a>
 
 </div>
 
-## GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌍 CareConnect Fort Wayne
+<a href="https://github.com/shinekhantzaw/CareConnect">
+  <img src="https://img.shields.io/badge/Open_Source-brightgreen?style=flat-square&logo=github" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" alt="Status"/>
+</a>
+
+Multilingual community resource platform with **AI-powered search** and voice input. Supports English, Spanish, and Burmese.
+
+`Angular` `ASP.NET Core` `Azure SQL` `Azure App Service`
+
+</td>
+<td width="50%">
+
+### 🍽️ Restaurant Staffing Platform
+<a href="#">
+  <img src="https://img.shields.io/badge/Capstone-Senior_Project-blue?style=flat-square" alt="Capstone"/>
+  <img src="https://img.shields.io/badge/NDA-Private-red?style=flat-square" alt="NDA"/>
+</a>
+
+Full-stack marketplace connecting restaurants with qualified staff. Year-long project with a real startup client.
+
+`React` `FastAPI` `PostgreSQL` `Stripe` `Twilio`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ♻️ EcoSense
+<a href="https://github.com/GarethNobleLFG/recycle-agent.git">
+  <img src="https://img.shields.io/badge/Machine_Learning-purple?style=flat-square&logo=scikitlearn&logoColor=white" alt="ML"/>
+  <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" alt="Status"/>
+</a>
+
+ML web app that classifies items as **recyclable, trash, or compost** from a photo with confidence scores.
+
+`Python` `scikit-learn` `FastAPI` `React`
+
+</td>
+<td width="50%">
+
+### 🚌 PFW Shuttle Tracker
+<a href="https://pfw-shuttle.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Site-Visit-58A6FF?style=flat-square&logo=vercel&logoColor=white" alt="Live"/>
+</a>
+
+Real-time campus shuttle tracking helping PFW students get to class on time with live map updates.
+
+`Next.js` `Express` `Leaflet.js` `Clerk`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎮 Dance Dance Keyboard
+<a href="https://github.com/shinekhantzaw/dance-dance-keyboard">
+  <img src="https://img.shields.io/badge/Game_Dev-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Game"/>
+</a>
+
+Guitar Hero-inspired rhythm game powered by a **hand-built priority queue** for real-time input management.
+
+`Java` `JavaFX` `CSS`
+
+</td>
+<td width="50%">
+
+### 🃏 Blackjack 21
+<a href="https://github.com/shinekhantzaw/BlackJack-21.git">
+  <img src="https://img.shields.io/badge/Desktop_App-teal?style=flat-square&logo=openjdk&logoColor=white" alt="Desktop"/>
+</a>
+
+Fully playable desktop Blackjack with real-time hand tracking, win counters, and casino-style UI.
+
+`Java` `JavaFX` `CSS`
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shinekhantzaw&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/shinekhantzaw">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shinekhantzaw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="Shine's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinekhantzaw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+</a>
+
+<br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinekhantzaw&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
-[![Shine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinekhantzaw&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-## What I'm Looking For
+## 📈 &nbsp;Contribution Graph
 
-I'm actively seeking **internship and full-time opportunities** where I can:
+[![Shine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinekhantzaw&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-&emsp;&emsp;&emsp; ● Apply my AI/ML knowledge to real-world problems
+<!--
+🐍 CONTRIBUTION SNAKE — Optional, requires a one-time GitHub Actions setup.
+To enable the animated snake eating your contribution graph:
 
-&emsp;&emsp;&emsp; ● Build scalable full-stack applications
+1. Create the file .github/workflows/snake.yml in this repo with:
 
-&emsp;&emsp;&emsp; ● Collaborate with talented teams
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: shinekhantzaw
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-&emsp;&emsp;&emsp; ● Continue learning and growing as a developer
+2. Go to the Actions tab → "Generate Snake" → Run workflow
+3. Once it runs successfully, uncomment the line below:
+-->
+<!-- ![Snake animation](https://raw.githubusercontent.com/shinekhantzaw/shinekhantzaw/output/github-snake-dark.svg) -->
 
-## Let's Connect!
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## ✍️ &nbsp;Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+📖 [The Infinity of Computer Science](https://shinekhantzaw.vercel.app) — *Exploring the endless pursuit of understanding in technology*
+
+💡 [Inventor Mindset: Why I Think Differently](https://shinekhantzaw.vercel.app) — *Universities produce employable graduates, but rarely inventors*
+<!-- BLOG-POST-LIST:END -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 &nbsp;Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shinekhantzaw)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/shinekhantzaw)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shinezaw700@gmail.com)
+*I'm actively seeking **internship and full-time opportunities** where I can build scalable applications, apply AI/ML to real problems, and collaborate with talented teams.*
 
-**💼 Portfolio Website Under Construction - Coming Soon!**
+<br/>
 
+```
+              ╔══════════════════════════════════════╗
+              ║                                      ║
+              ║   📧  shinezaw700@gmail.com          ║
+              ║   🔗  linkedin.com/in/shinekhantzaw  ║
+              ║   🌐  shinekhantzaw.vercel.app       ║
+              ║   📍  Fort Wayne, IN                 ║
+              ║                                      ║
+              ╚══════════════════════════════════════╝
+```
+
+<br/>
+
+> *"Quality is much better than quantity. One home run is much better than two doubles."* — **Steve Jobs**
 
 </div>
 
-<div align="center">
-
-*"Thanks for stopping by! Feel free to reach out - I'm always open to interesting conversations and opportunities!"*
-
-![](https://komarev.com/ghpvc/?username=shinekhantzaw&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer"/>
